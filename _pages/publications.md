@@ -17,13 +17,13 @@ author_profile: true
 
 ## Peer-reviewed articles
 
-- Tkacova, K., Idler, A., Johnson, N. and López, E., 2023. Explaining conflict violence in terms of conflict actor dynamics. _Scientific reports_, 13(1), p.21187.
-    - URL: [DOI](https://doi.org/10.1038/s41598-023-48218-x)
-    - Code and data: [GitHub](https://github.com/Global-Security-Programme/Explaining-conflict-violence-in-terms-of-conflict-actor-dynamics) and [Zenodo](https://zenodo.org/records/10159421)
-
 - Idler, A. and Tkacova, K., 2024. Conflict shapes in flux: Explaining spatial shift in conflict-related violence. _International Political Science Review_, 45(1), pp.31-52.
     - URL: [DOI](https://doi.org/10.1177/01925121231177445)
     - Code and data: [Gihub](https://github.com/Global-Security-Programme/Conflict-shapes-in-flux)
+
+- Tkacova, K., Idler, A., Johnson, N. and López, E., 2023. Explaining conflict violence in terms of conflict actor dynamics. _Scientific reports_, 13(1), p.21187.
+    - URL: [DOI](https://doi.org/10.1038/s41598-023-48218-x)
+    - Code and data: [GitHub](https://github.com/Global-Security-Programme/Explaining-conflict-violence-in-terms-of-conflict-actor-dynamics) and [Zenodo](https://zenodo.org/records/10159421)
 
 - Wilson, P.H., Tkacova, K. and Pert, T., 2023. Mapping premodern small war: The case of the Thirty Years War (1618-48). _Small Wars & Insurgencies_, 34(6), pp.1043-1071. 
     - URL: [DOI](https://doi.org/10.1080/09592318.2023.2220503)
