@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="clicky-analytics">
-  <a title="Google Analytics Alternative" href="https://clicky.com/101472933">
-    <img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" />
-  </a>
-  <script async data-id="101472933" src="//static.getclicky.com/js"></script>
-</div>
 
 I am a research fellow in the [Global Security Program: Contested Cross-border Spaces, Illicit Flows, and Order in the Contemporary World](https://www.bsg.ox.ac.uk/research/global-security-contested-space-illicit-flows-and-order-contemporary-world) at the Blavatnik School of Government (University of Oxford) and a researcher at [CONPEACE (From Conflict Actors to Architects of Peace)](https://conpeace.pmb.ox.ac.uk) at the Pembroke College.
 
