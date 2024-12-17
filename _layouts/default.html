@@ -1,9 +1,3 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
@@ -13,9 +7,6 @@ layout: compress
 
   <body>
 
-    <a title="Google Analytics Alternative" href="https://clicky.com/101472933"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async data-id="101472933" src="//static.getclicky.com/js"></script>
-    
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -29,6 +20,14 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <!-- Move Clicky code to the bottom -->
+    <div class="clicky-analytics">
+      <a title="Google Analytics Alternative" href="https://clicky.com/101472933">
+        <img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" />
+      </a>
+      <script async data-id="101472933" src="//static.getclicky.com/js"></script>
+    </div>
   
   </body>
 </html>
