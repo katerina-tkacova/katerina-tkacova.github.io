@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a research fellow in the [Global Security Program: Contested Cross-border Spaces, Illicit Flows, and Order in the Contemporary World](https://www.bsg.ox.ac.uk/research/global-security-contested-space-illicit-flows-and-order-contemporary-world) at the Blavatnik School of Government (University of Oxford) and a researcher at [CONPEACE (From Conflict Actors to Architects of Peace)](https://conpeace.pmb.ox.ac.uk) at the Pembroke College.
+I am a research fellow in the [Global Security Program: Contested Cross-border Spaces, Illicit Flows, and Order in the Contemporary World](https://www.bsg.ox.ac.uk/research/global-security-contested-space-illicit-flows-and-order-contemporary-world) at the Blavatnik School of Government at the University of Oxford and a researcher at [CONPEACE (From Conflict Actors to Architects of Peace)](https://conpeace.pmb.ox.ac.uk/) at Pembroke College in Oxford.
 
 My research focuses on the dynamics of contemporary and historical armed conflicts, including the interaction between conflict actors, the geographic scope of conflict, and its impact on civilians. My work combines visualisation techniques with GIS and other quantitative data analysis.
 
