@@ -40,7 +40,7 @@ author_profile: true
 - Idler, A. and Tkacova, K., 2023. Horn of Africa cross-stakeholder forum report: mitigating the impact of conflict on civilians by understanding changing conflict dynamics. _Global Security Programme_, University of Oxford.
     - URL: [DOI](10.5287/ORA-XM0MA20GD)
 
-- Tchie, A.E., Tkacova, K., 2018. Children living with disabilities inside Syria. _Syria Relief_.
+- Tchie, A.E. and Tkacova, K., 2018. Children living with disabilities inside Syria. _Syria Relief_.
     - URL: [PDF](https://www.dropbox.com/s/vbwwfn154b1d4yd/Syria%20Relief%20report%20final%20artwork%20single%20pages.pdf?dl=0)
 
 
