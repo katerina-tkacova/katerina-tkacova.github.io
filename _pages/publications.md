@@ -46,5 +46,8 @@ author_profile: true
 
 ## Other
 
+- Idler, A., Tkacova, K., McGill, D., Delgado, J., Ruiz, I. and Vargas-Silva, C., 2024. Marginalized Communities in Contexts of Conflict and Crime: Which Communities Make Colombians Feel Secure? Pre-analysis plan.
+    - URL: [OSF](https://osf.io/5pt43)  
+
 - Tkacova, K., 2017. Hate Begets Hate; Violence Begets Violence: The Case of Domestic Terrorism on Behalf of Ethnic Groups. PhD thesis, University of Essex. 
     - URL: [University of Essex Research Repository](https://repository.essex.ac.uk/19572/)
