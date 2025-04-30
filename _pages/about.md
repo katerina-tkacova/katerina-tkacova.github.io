@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow in the [Global Security Program: Contested Cross-border Spaces, Illicit Flows, and Order in the Contemporary World](https://www.bsg.ox.ac.uk/research/global-security-contested-space-illicit-flows-and-order-contemporary-world) at the Blavatnik School of Government at the University of Oxford and a researcher at [CONPEACE (From Conflict Actors to Architects of Peace)](https://conpeace.pmb.ox.ac.uk/) at Pembroke College in Oxford.
+I am Inclusion Data Analyst at the Faculty of Law, University of Oxford. My role centres on data analysis to support the Faculty's efforts to ensure that students can fulfil their academic potential, regardless of their non-academic characteristics, including but not limited to those outlined in the EA 2010.
 
-My research focuses on the dynamics of contemporary and historical armed conflicts, including the interaction between conflict actors, the geographic scope of conflict, and its impact on civilians. My work combines visualisation techniques with GIS and other quantitative data analysis.
+Other than that, my research focuses on the dynamics of contemporary and historical armed conflicts, including the interaction between conflict actors, the geographic scope of conflict, and its impact on civilians. My work combines visualisation techniques with GIS and other quantitative data analysis.
 
-I was previously a post-doctoral researcher in the [Changing Character of Conflict Platform project](https://conflictplatform.ox.ac.uk). This project involved studying the changing conflict dynamics and their impact on individuals and communities. After that, I worked on the [Network for Change project](https://globalsecurity.web.ox.ac.uk/article/networks-for-change), where I engaged with stakeholders, including representatives of civil society, international community and academia, in Myanmar and the Horn of Africa. My work in this project aimed to improve our collective understanding of the impact of conflict dynamics on civilians and identify "good practices" and future opportunities for cross-stakeholder collaboration.
+Prior to joining the Faculty of Law, I worked as a researcher in the following projects:
+- [Global Security Program: Contested Cross-border Spaces, Illicit Flows, and Order in the Contemporary World](https://www.bsg.ox.ac.uk/research/global-security-contested-space-illicit-flows-and-order-contemporary-world) (the Blavatnik School of Government at the University of Oxford)
+- [CONPEACE (From Conflict Actors to Architects of Peace)](https://conpeace.pmb.ox.ac.uk/) (Pembroke College in Oxford)
+- [Mapping the Thirty Years War project](https://mappingtyw.web.ox.ac.uk/home#/) (the History Faculty at the University of Oxford)
+- [Network for Change project](https://globalsecurity.web.ox.ac.uk/article/networks-for-change) (the Blavatnik School of Government at the University of Oxford)
+- [Changing Character of Conflict Platform project](https://conflictplatform.ox.ac.uk/) (the Department of Politics and International Relations t at the University of Oxford)
 
-I was also a part of the [Mapping the Thirty Years War project](https://mappingtyw.web.ox.ac.uk/home#/), building dynamic, digital visualisation of the impact of the Thirty Years War (1618-48), Europe’s most destructive conflict prior to the 20th century. 
+I am affiliated with the [Global Security Programme]([The Global Security Programme - Global Security Programme](https://www.globalsecurity.pmb.ox.ac.uk/)) at Pembroke College. 
 
 Before joining academia, I worked for Berkat, a Czech NGO supporting communities in Chechnya and Afghanistan, and InBaze, a community centre for migrants in Prague.
-
-I hold a PhD in International Relations from the University of Essex.
