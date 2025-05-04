@@ -24,9 +24,9 @@ author:
   avatar           : "profile-pic2.jpeg"
   name             : "Katerina Tkacova"
   pronouns         : # example: "she/her"  
-  bio              : Quantitative research #"Political scientist studying the dynamics of contemporary and historical armed conflicts"
+  bio              : # Quantitative research "Political scientist studying the dynamics of contemporary and historical armed conflicts"
   location         : "Oxford, UK"
-  employer         : "Uni of Oxford, Pembroke College"
+  employer         : "University of Oxford"
   uri              : # URL
   email            : "katerina.tkacova@pmb.ox.ac.uk" 
 
